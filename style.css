@@ -1,0 +1,19 @@
+
+BODY, html {
+	BACKGROUND-POSITION: 0% 50%; FONT-SIZE: 8pt; BACKGROUND-ATTACHMENT: scroll; COLOR: black; BACKGROUND-REPEAT: repeat; FONT-FAMILY: Verdana, sans-serif; BACKGROUND-COLOR: #CC0000; TEXT-DECORATION: none; 
+}
+<!--
+A { text-decoration: none; }
+A:link { color: black; }
+A:visited { color: #371C00; }
+-->
+
+A:hover {color: #371C00; font-family: Verdana, sans-serif; text-decoration: underline; font-size: 8pt}
+
+td {
+	font-family: Verdana, sans-serif;font-size: 8pt
+}
+
+th {
+	font-family: Verdana, sans-serif;font-size: 8pt
+}
