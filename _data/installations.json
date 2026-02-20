@@ -1,0 +1,506 @@
+[
+  {
+    "img": "img/inst/vino.jpg",
+    "thumb": "img/inst/vino.jpg",
+    "title_de": "2021",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/kovid.jpg",
+    "thumb": "img/inst/kovid.jpg",
+    "title_de": "Corona virus COVID -19 (2020)",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/SodomAndGomorrah.jpg",
+    "thumb": "img/pics/SodomAndGomorrah.jpg",
+    "title_de": "Sodom und Gomorra (2015)",
+    "title_en": "Sodom and Gomorrah (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/Ampelmannchen.jpg",
+    "thumb": "img/pics/Ampelmannchen.jpg",
+    "title_de": "Ampelmännchen (2015)",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/Ampelmannchen2.jpg",
+    "thumb": "img/pics/Ampelmannchen2.jpg",
+    "title_de": "Ampelmännchen (2015)",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/Baby.jpg",
+    "thumb": "img/inst/Baby.jpg",
+    "title_de": "REBEL ART - Baby in Mauerpark Berlin (2015)",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/Pittiplatsch.JPG",
+    "thumb": "img/inst/Pittiplatsch.JPG",
+    "title_de": "Pittiplatsch (2015)",
+    "title_en": "",
+    "desc_de": "Holzhocker",
+    "desc_en": "Wooden Stool"
+  },
+  {
+    "img": "img/inst/KissWindow.JPG",
+    "thumb": "img/inst/KissWindow.JPG",
+    "title_de": "Kuss Fenster (2015)",
+    "title_en": "Kiss window (2015)",
+    "desc_de": "spray farbe auf Glass, 55 x 70 cm",
+    "desc_en": "spray colours on glasses, 55 x 70 cm"
+  },
+  {
+    "img": "img/inst/DoveOfPeace.JPG",
+    "thumb": "img/inst/DoveOfPeace.JPG",
+    "title_de": "Friedenstaube (2015)",
+    "title_en": "Dove of peace (2015)",
+    "desc_de": "spray farbe auf Glass, 97 x 55 cm",
+    "desc_en": "spray colours on glasses, 97 x 55 cm"
+  },
+  {
+    "img": "img/inst/KISS.JPG",
+    "thumb": "img/inst/KISS.JPG",
+    "title_de": "KISS (2015)",
+    "title_en": "",
+    "desc_de": "spray farbe auf Glass",
+    "desc_en": "spray colours on glasses"
+  },
+  {
+    "img": "img/inst/HEART.JPG",
+    "thumb": "img/inst/HEART.JPG",
+    "title_de": "HERZ (2015)",
+    "title_en": "HEART (2015)",
+    "desc_de": "spray farbe auf Glass, 123 x 57 cm",
+    "desc_en": "spray colours on glasses, 123 x 57 cm"
+  },
+  {
+    "img": "img/inst/CINDERELLA.JPG",
+    "thumb": "img/inst/CINDERELLA.JPG",
+    "title_de": "ASCHENBRÖDEL (2013)",
+    "title_en": "CINDERELLA (2013)",
+    "desc_de": "Holzhocker, 40 cm",
+    "desc_en": "Wooden Stool, 40 cm"
+  },
+  {
+    "img": "img/inst/altar.jpg",
+    "thumb": "img/inst/altar.jpg",
+    "title_de": "Altar (2012)",
+    "title_en": "",
+    "desc_de": "Acryl auf Holz",
+    "desc_en": "Acryl on wood"
+  },
+  {
+    "img": "img/inst/SPEJBLAHURVINEKGOTSAVEKARELGOTT_detail.JPG",
+    "thumb": "img/inst/SPEJBLAHURVINEKGOTSAVEKARELGOTT.JPG",
+    "title_de": "SPEJBL A HURVINEK: GOT SAVE KAREL GOTT (2015)",
+    "title_en": "",
+    "desc_de": "47 x 47 x 40 cm",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_spalek_Bata.jpg",
+    "thumb": "img/inst/RA_spalek_Bata1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_spalek_Golem.jpg",
+    "thumb": "img/inst/RA_spalek_Golem1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_spalek_JingJang.jpg",
+    "thumb": "img/inst/RA_spalek_JingJang1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_spalek_Krtecek.jpg",
+    "thumb": "img/inst/RA_spalek_Krtecek1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_spalek_PanTau.jpg",
+    "thumb": "img/inst/RA_spalek_PanTau1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_spalek_Srdce.jpg",
+    "thumb": "img/inst/RA_spalek_Srdce1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_vesak_pribor.jpg",
+    "thumb": "img/inst/RA_vesak_pribor1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_vesak_otaznik.jpg",
+    "thumb": "img/inst/RA_vesak_otaznik1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_skrinka_GrussGott.jpg",
+    "thumb": "img/inst/RA_skrinka_GrussGott1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_street_srdce_2.jpg",
+    "thumb": "img/inst/RA_street_srdce_21.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_street_srdce_1.jpg",
+    "thumb": "img/inst/RA_street_srdce_11.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_SaH_Mafia.jpg",
+    "thumb": "img/inst/RA_SaH_Mafia1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_Orgie.jpg",
+    "thumb": "img/inst/RA_SaH_Orgie_1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_Cesky_raj.jpg",
+    "thumb": "img/inst/RA_SaH_Cesky_raj_1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_Krakonosovo.jpg",
+    "thumb": "img/inst/RA_SaH_Krakonosovo1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_May_1st.jpg",
+    "thumb": "img/inst/RA_SaH_May_1st1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_Solidarnosc.jpg",
+    "thumb": "img/inst/RA_SaH_Solidarnosc1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_against_communism.jpg",
+    "thumb": "img/inst/RA_SaH_against_communism1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_velikonoce.jpg",
+    "thumb": "img/inst/RA_SaH_velikonoce1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_Dracula.jpg",
+    "thumb": "img/inst/RA_Dracula1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_und_tattoo.jpg",
+    "thumb": "img/inst/RA_SaH_und_tattoo1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_tribute_to_Warhol.jpg",
+    "thumb": "img/inst/RA_SaH_tribute_to_Warhol1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_tennis.jpg",
+    "thumb": "img/inst/RA_SaH_tennis1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_pedofilni_mord.jpg",
+    "thumb": "img/inst/RA_SaH_pedofilni_mord1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_Eine_blutige_Rache.jpg",
+    "thumb": "img/inst/RA_SaH_Eine_blutige_Rache1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_no_respect.jpg",
+    "thumb": "img/inst/RA_SaH_no_respect1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_S&M-2.jpg",
+    "thumb": "img/inst/RA_SaH_S&M-1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_GegenNazi-2.jpg",
+    "thumb": "img/inst/RA_SaH_GegenNazi-1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_Gabba2.jpg",
+    "thumb": "img/inst/RA_SaH_Gabba1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_Prag_1968-2.jpg",
+    "thumb": "img/inst/RA_SaH_Prag_1968-1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_SaH_EM2008.jpg",
+    "thumb": "img/inst/RA_SaH_EM2008-1.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA-SaH-1.jpg",
+    "thumb": "img/inst/RA-SaH-1a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA-SaH-2.jpg",
+    "thumb": "img/inst/RA-SaH-2a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_ritual.jpg",
+    "thumb": "img/inst/RA_ritual-s.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/ohne_titel.jpg",
+    "thumb": "img/inst/ohne_titel-s.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/stul2.jpg",
+    "thumb": "img/inst/stul2a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/stul1.jpg",
+    "thumb": "img/inst/stul1a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/spring-summer.jpg",
+    "thumb": "img/inst/spring-summera.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/angels.jpg",
+    "thumb": "img/inst/angelsa.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/jezek.jpg",
+    "thumb": "img/inst/jezeka.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/battery.jpg",
+    "thumb": "img/inst/batterya.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/terrorism.jpg",
+    "thumb": "img/inst/terrorisma.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/steckdose.jpg",
+    "thumb": "img/inst/steckdosea.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/wc.jpg",
+    "thumb": "img/inst/wca.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/philippmorris.jpg",
+    "thumb": "img/inst/philippmorrisa.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/skrinka21.jpg",
+    "thumb": "img/inst/skrinka21a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/skrinka22.jpg",
+    "thumb": "img/inst/skrinka22a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/skrinka11.jpg",
+    "thumb": "img/inst/skrinka11a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/skrinka12.jpg",
+    "thumb": "img/inst/skrinka12a.jpg",
+    "title_de": "",
+    "title_en": "",
+    "desc_de": "",
+    "desc_en": ""
+  }
+]

@@ -1,0 +1,32 @@
+<header class="site-header">
+  <a href="{{ '/' | relative_url }}">
+    <img src="{{ '/grafika/header/RA_logo_header.gif' | relative_url }}" alt="Rebel Art" class="logo">
+  </a>
+  <nav class="main-nav" aria-label="Main navigation">
+    <a href="{{ '/paintings.html' | relative_url }}" {% if page.nav == 'paintings' %}class="active"{% endif %}>
+      <span data-lang="de">Bilder</span><span data-lang="en">Paintings</span>
+    </a>
+    <a href="{{ '/posters.html' | relative_url }}" {% if page.nav == 'posters' %}class="active"{% endif %}>
+      <span data-lang="de">Poster</span><span data-lang="en">Posters</span>
+    </a>
+    <a href="{{ '/installation.html' | relative_url }}" {% if page.nav == 'installation' %}class="active"{% endif %}>
+      Installation
+    </a>
+    <a href="{{ '/exhibitions.html' | relative_url }}" {% if page.nav == 'exhibitions' %}class="active"{% endif %}>
+      <span data-lang="de">Ausstellungen</span><span data-lang="en">Exhibitions</span>
+    </a>
+    <a href="{{ '/media.html' | relative_url }}" {% if page.nav == 'media' %}class="active"{% endif %}>
+      Media
+    </a>
+    <a href="{{ '/biography.html' | relative_url }}" {% if page.nav == 'biography' %}class="active"{% endif %}>
+      <span data-lang="de">Biographie</span><span data-lang="en">Biography</span>
+    </a>
+    <a href="{{ '/press.html' | relative_url }}" {% if page.nav == 'press' %}class="active"{% endif %}>
+      <span data-lang="de">Presse</span><span data-lang="en">Press</span>
+    </a>
+    <a href="{{ '/contact.html' | relative_url }}" {% if page.nav == 'contact' %}class="active"{% endif %}>
+      <span data-lang="de">Kontakt</span><span data-lang="en">Contact</span>
+    </a>
+  </nav>
+  <div class="nav-separator"></div>
+</header>
