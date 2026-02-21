@@ -53,5 +53,5 @@ All pages support DE/EN via `data-lang` attributes. Language preference is saved
 
 ```bash
 # With Docker
-docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/minimal jekyll build --watch
+docker run --rm --volume="$PWD:/srv/jekyll" -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) -it jekyll/minimal jekyll build --watch
 ```

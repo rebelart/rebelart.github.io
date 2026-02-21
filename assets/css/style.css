@@ -25,9 +25,6 @@ body {
   font-size: 8pt;
   color: var(--color-text);
   background-color: var(--color-bg);
-  background-image: url('../../grafika/header/RA_bg_hvezdy-2.png');
-  background-repeat: repeat;
-  background-position: 0 50%;
   min-height: 100vh;
 }
 
@@ -77,15 +74,39 @@ img {
 }
 
 .main-nav a {
-  font-size: 8pt;
+  font-size: 9pt;
   font-family: var(--font-main);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
   padding: 2px 6px;
   white-space: nowrap;
+  color: #553300;
+  background: linear-gradient(180deg, #e8a020 0%, #cc7700 50%, #884400 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: none;
+  filter: drop-shadow(0px 1px 0px rgba(0,0,0,0.3));
+}
+
+.main-nav a:visited {
+  color: #553300;
+  -webkit-text-fill-color: transparent;
+}
+
+.main-nav a:hover {
+  filter: drop-shadow(0px 1px 0px rgba(0,0,0,0.5));
+  text-decoration: underline;
+  -webkit-text-fill-color: #442200;
+  background: none;
 }
 
 .main-nav a.active {
-  font-weight: bold;
+  -webkit-text-fill-color: #442200;
+  background: none;
   text-decoration: underline;
+  filter: drop-shadow(0px 1px 0px rgba(0,0,0,0.4));
 }
 
 .nav-separator {
