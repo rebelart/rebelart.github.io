@@ -2,50 +2,50 @@
   {
     "img": "img/inst/vino.jpg",
     "thumb": "img/inst/vino.jpg",
-    "title_de": "Wein (2021)",
-    "title_en": "Wine (2021)",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "2021",
+    "title_en": "2021",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/kovid.jpg",
     "thumb": "img/inst/kovid.jpg",
-    "title_de": "Corona Virus COVID-19 (2020)",
-    "title_en": "Corona Virus COVID-19 (2020)",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Corona virus COVID -19 (2020)",
+    "title_en": "Corona virus COVID -19 (2020)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/pics/SodomAndGomorrah.jpg",
     "thumb": "img/pics/SodomAndGomorrah.jpg",
     "title_de": "Sodom und Gomorra (2015)",
     "title_en": "Sodom and Gomorrah (2015)",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/pics/Ampelmannchen.jpg",
     "thumb": "img/pics/Ampelmannchen.jpg",
     "title_de": "Ampelmännchen (2015)",
-    "title_en": "Traffic Light Man (2015)",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_en": "Ampelmännchen (2015)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/pics/Ampelmannchen2.jpg",
     "thumb": "img/pics/Ampelmannchen2.jpg",
-    "title_de": "Ampelmännchen II (2015)",
-    "title_en": "Traffic Light Man II (2015)",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Ampelmännchen (2015)",
+    "title_en": "Ampelmännchen (2015)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/Baby.jpg",
     "thumb": "img/inst/Baby.jpg",
     "title_de": "REBEL ART - Baby in Mauerpark Berlin (2015)",
     "title_en": "REBEL ART - Baby in Mauerpark Berlin (2015)",
-    "desc_de": "Street Art",
-    "desc_en": "Street Art"
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/Pittiplatsch.JPG",
@@ -76,7 +76,7 @@
     "thumb": "img/inst/KISS.JPG",
     "title_de": "KISS (2015)",
     "title_en": "KISS (2015)",
-    "desc_de": "Sprayfarbe auf Glas",
+    "desc_de": "spray farbe auf Glass",
     "desc_en": "spray colours on glasses"
   },
   {
@@ -107,400 +107,568 @@
     "img": "img/inst/SPEJBLAHURVINEKGOTSAVEKARELGOTT_detail.JPG",
     "thumb": "img/inst/SPEJBLAHURVINEKGOTSAVEKARELGOTT.JPG",
     "title_de": "SPEJBL A HURVINEK: GOT SAVE KAREL GOTT (2015)",
-    "title_en": "SPEJBL & HURVINEK: GOD SAVE KAREL GOTT (2015)",
+    "title_en": "SPEJBL A HURVINEK: GOT SAVE KAREL GOTT (2015)",
     "desc_de": "47 x 47 x 40 cm",
     "desc_en": "47 x 47 x 40 cm"
   },
   {
-    "img": "img/inst/RA_spalek_Bata1.jpg",
+    "img": "img/inst/RA-irokese-von-Hrebik.jpg",
+    "thumb": "img/inst/RA-irokese-von-Hrebik-1.jpg",
+    "title_de": "Irokese von Hrebik",
+    "title_en": "Irokese von Hrebik",
+    "desc_de": "(2013)",
+    "desc_en": "(2013)"
+  },
+  {
+    "img": "img/inst/RA-Jesus-Christ-crucifixion.jpg",
+    "thumb": "img/inst/RA-Jesus-Christ-crucifixion-1.jpg",
+    "title_de": "Jesus Christus - Kreuzigung",
+    "title_en": "Jesus Christus - Kreuzigung",
+    "desc_de": "(2014)",
+    "desc_en": "(2014)"
+  },
+  {
+    "img": "img/inst/RA-Spejbl-und-Hurvinek-und-INTERSHOP.jpg",
+    "thumb": "img/inst/RA-Spejbl-und-Hurvinek-und-INTERSHOP-1.jpg",
+    "title_de": "Spejbl und Hurvinek und Intershop",
+    "title_en": "Spejbl und Hurvinek und Intershop",
+    "desc_de": "TV (2014)",
+    "desc_en": "TV (2014)"
+  },
+  {
+    "img": "img/inst/RA_skrinka_Pozdravpanbu.jpg",
+    "thumb": "img/inst/RA_skrinka_Pozdravpanbu1.jpg",
+    "title_de": "Grüß Gott",
+    "title_en": "Grüß Gott",
+    "desc_de": "(2012)",
+    "desc_en": "(2012)"
+  },
+  {
+    "img": "img/inst/RA_vesak_Mickey.jpg",
+    "thumb": "img/inst/RA_vesak_Mickey1.jpg",
+    "title_de": "Mickey Mouse",
+    "title_en": "Mickey Mouse",
+    "desc_de": "(2012)",
+    "desc_en": "(2012)"
+  },
+  {
+    "img": "img/inst/RA_TV_TheSimpsons.jpg",
+    "thumb": "img/inst/RA_TV_TheSimpsons1.jpg",
+    "title_de": "The Simpsons",
+    "title_en": "The Simpsons",
+    "desc_de": "TV (2013)",
+    "desc_en": "TV (2013)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Semtex.jpg",
+    "thumb": "img/inst/RA_sedak_Semtex1.jpg",
+    "title_de": "Semtex",
+    "title_en": "Semtex",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Rolling_Stones.jpg",
+    "thumb": "img/inst/RA_sedak_Rolling_Stones1.jpg",
+    "title_de": "Rolling Stones",
+    "title_en": "Rolling Stones",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Pozdravpanbu.jpg",
+    "thumb": "img/inst/RA_sedak_Pozdravpanbu1.jpg",
+    "title_de": "Grüß Gott",
+    "title_en": "Grüß Gott",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Mickey_Mouse.jpg",
+    "thumb": "img/inst/RA_sedak_Mickey_Mouse1.jpg",
+    "title_de": "Mickey Mouse",
+    "title_en": "Mickey Mouse",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Krakonos.jpg",
+    "thumb": "img/inst/RA_sedak_Krakonos1.jpg",
+    "title_de": "Rübezahls Revir",
+    "title_en": "Rübezahls Revir",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Jezis.jpg",
+    "thumb": "img/inst/RA_sedak_Jezis1.jpg",
+    "title_de": "Jesus Christus",
+    "title_en": "Jesus Christus",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Ferda.jpg",
+    "thumb": "img/inst/RA_sedak_Ferda1.jpg",
+    "title_de": "Ferda Mravenec",
+    "title_en": "Ferda Mravenec",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Berlin.jpg",
+    "thumb": "img/inst/RA_sedak_Berlin1.jpg",
+    "title_de": "Berlin",
+    "title_en": "Berlin",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_sedak_Batman.jpg",
+    "thumb": "img/inst/RA_sedak_Batman1.jpg",
+    "title_de": "Batman",
+    "title_en": "Batman",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_oltar.jpg",
+    "thumb": "img/inst/RA_oltar1.jpg",
+    "title_de": "Altar",
+    "title_en": "Altar",
+    "desc_de": "(2012)",
+    "desc_en": ""
+  },
+  {
+    "img": "img/inst/RA_Krakonosovo_2.jpg",
+    "thumb": "img/inst/RA_Krakonosovo_2_1.jpg",
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Stejbl and Hurvinek",
+    "desc_de": "In Rübezahls Revier (2012)",
+    "desc_en": "In Krakonos's territory (2012)"
+  },
+  {
+    "img": "img/inst/RA_kanal_srdce.jpg",
+    "thumb": "img/inst/RA_kanal_srdce1.jpg",
+    "title_de": "Rebel street art - Herz",
+    "title_en": "Rebel street art - Heart",
+    "desc_de": "Schachtabdeckungen (2012)",
+    "desc_en": "manhole cover (2012)"
+  },
+  {
+    "img": "img/inst/RA_spalek_Pivo.jpg",
+    "thumb": "img/inst/RA_spalek_Pivo1.jpg",
+    "title_de": "Bier",
+    "title_en": "Beer",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_spalek_Vino.jpg",
+    "thumb": "img/inst/RA_spalek_Vino1.jpg",
+    "title_de": "Wein glas",
+    "title_en": "Wine glass",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_spalek_Skoda.jpg",
+    "thumb": "img/inst/RA_spalek_Skoda1.jpg",
+    "title_de": "Skoda",
+    "title_en": "Skoda",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
+  },
+  {
+    "img": "img/inst/RA_spalek_Bata.jpg",
     "thumb": "img/inst/RA_spalek_Bata1.jpg",
-    "title_de": "Holzblock - Baťa",
-    "title_en": "Wooden Block - Baťa",
-    "desc_de": "Acryl auf Holz",
-    "desc_en": "Acrylic on wood"
+    "title_de": "Bata",
+    "title_en": "Bata",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
   },
   {
-    "img": "img/inst/RA_spalek_Golem1.jpg",
+    "img": "img/inst/RA_spalek_Golem.jpg",
     "thumb": "img/inst/RA_spalek_Golem1.jpg",
-    "title_de": "Holzblock - Golem",
-    "title_en": "Wooden Block - Golem",
-    "desc_de": "Acryl auf Holz",
-    "desc_en": "Acrylic on wood"
+    "title_de": "Golem",
+    "title_en": "Golem",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
   },
   {
-    "img": "img/inst/RA_spalek_JingJang1.jpg",
+    "img": "img/inst/RA_spalek_JingJang.jpg",
     "thumb": "img/inst/RA_spalek_JingJang1.jpg",
-    "title_de": "Holzblock - Yin Yang",
-    "title_en": "Wooden Block - Yin Yang",
-    "desc_de": "Acryl auf Holz",
-    "desc_en": "Acrylic on wood"
+    "title_de": "yin yang",
+    "title_en": "yin yang",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
   },
   {
-    "img": "img/inst/RA_spalek_Krtecek1.jpg",
+    "img": "img/inst/RA_spalek_Krtecek.jpg",
     "thumb": "img/inst/RA_spalek_Krtecek1.jpg",
-    "title_de": "Holzblock - Maulwurf",
-    "title_en": "Wooden Block - Little Mole",
-    "desc_de": "Acryl auf Holz",
-    "desc_en": "Acrylic on wood"
+    "title_de": "Der Kleine Maulwurf",
+    "title_en": "The Little Mole",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
   },
   {
-    "img": "img/inst/RA_spalek_PanTau1.jpg",
+    "img": "img/inst/RA_spalek_PanTau.jpg",
     "thumb": "img/inst/RA_spalek_PanTau1.jpg",
-    "title_de": "Holzblock - Pan Tau",
-    "title_en": "Wooden Block - Mr. Tau",
-    "desc_de": "Acryl auf Holz",
-    "desc_en": "Acrylic on wood"
+    "title_de": "Pan Tau",
+    "title_en": "Mr. Tau",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
   },
   {
-    "img": "img/inst/RA_spalek_Srdce1.jpg",
+    "img": "img/inst/RA_spalek_Srdce.jpg",
     "thumb": "img/inst/RA_spalek_Srdce1.jpg",
-    "title_de": "Holzblock - Herz",
-    "title_en": "Wooden Block - Heart",
-    "desc_de": "Acryl auf Holz",
-    "desc_en": "Acrylic on wood"
+    "title_de": "Herz",
+    "title_en": "Heart",
+    "desc_de": "Holzhocker (2012)",
+    "desc_en": "Wooden Stool (2012)"
   },
   {
-    "img": "img/inst/RA_vesak_pribor1.jpg",
+    "img": "img/inst/RA_vesak_pribor.jpg",
     "thumb": "img/inst/RA_vesak_pribor1.jpg",
-    "title_de": "Garderobe - Besteck",
-    "title_en": "Coat Rack - Cutlery",
-    "desc_de": "Holz, Metall",
-    "desc_en": "Wood, metal"
+    "title_de": "Gabel & Messer",
+    "title_en": "Fork & Knife",
+    "desc_de": "Ständer (2012)",
+    "desc_en": "Coat Hook (2012)"
   },
   {
-    "img": "img/inst/RA_vesak_otaznik1.jpg",
+    "img": "img/inst/RA_vesak_otaznik.jpg",
     "thumb": "img/inst/RA_vesak_otaznik1.jpg",
-    "title_de": "Garderobe - Fragezeichen",
-    "title_en": "Coat Rack - Question Mark",
-    "desc_de": "Holz, Metall",
-    "desc_en": "Wood, metal"
+    "title_de": "Fragezeichen",
+    "title_en": "Question Mark",
+    "desc_de": "Ständer (2012)",
+    "desc_en": "Coat Hook (2012)"
   },
   {
-    "img": "img/inst/RA_skrinka_GrussGott1.jpg",
+    "img": "img/inst/RA_skrinka_GrussGott.jpg",
     "thumb": "img/inst/RA_skrinka_GrussGott1.jpg",
-    "title_de": "Schränkchen - Grüß Gott",
-    "title_en": "Cabinet - Grüß Gott",
-    "desc_de": "Holz, Acryl",
-    "desc_en": "Wood, acrylic"
+    "title_de": "Grüß Gott",
+    "title_en": "God Bless You",
+    "desc_de": "Holzschrank (2012)",
+    "desc_en": "Wood Cabinet (2012)"
   },
   {
-    "img": "img/inst/RA_street_srdce_21.jpg",
+    "img": "img/inst/RA_street_srdce_2.jpg",
     "thumb": "img/inst/RA_street_srdce_21.jpg",
-    "title_de": "Street Art - Herz II",
-    "title_en": "Street Art - Heart II",
-    "desc_de": "Street Art",
-    "desc_en": "Street Art"
+    "title_de": "Rebel street art - Herz",
+    "title_en": "Rebel street art - Heart",
+    "desc_de": "Wand (2012)",
+    "desc_en": "wall (2012)"
   },
   {
-    "img": "img/inst/RA_street_srdce_11.jpg",
+    "img": "img/inst/RA_street_srdce_1.jpg",
     "thumb": "img/inst/RA_street_srdce_11.jpg",
-    "title_de": "Street Art - Herz I",
-    "title_en": "Street Art - Heart I",
-    "desc_de": "Street Art",
-    "desc_en": "Street Art"
+    "title_de": "Rebel street art - Herz",
+    "title_en": "Rebel street art - Heart",
+    "desc_de": "Wand (2012)",
+    "desc_en": "wall (2012)"
   },
   {
-    "img": "img/inst/RA_SaH_Mafia1.jpg",
+    "img": "img/inst/RA_SaH_Mafia.jpg",
     "thumb": "img/inst/RA_SaH_Mafia1.jpg",
-    "title_de": "Spejbl & Hurvínek - Mafia",
-    "title_en": "Spejbl & Hurvínek - Mafia",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "Napoli Camorra Mafiosi (2011)",
+    "desc_en": "Napoli Camorra Mafiosi (2011)"
   },
   {
     "img": "img/inst/RA_SaH_Orgie.jpg",
     "thumb": "img/inst/RA_SaH_Orgie_1.jpg",
-    "title_de": "Spejbl & Hurvínek - Orgie",
-    "title_en": "Spejbl & Hurvínek - Orgy",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "Orgie (2010)",
+    "desc_en": "Orgy (2010)"
   },
   {
     "img": "img/inst/RA_SaH_Cesky_raj.jpg",
     "thumb": "img/inst/RA_SaH_Cesky_raj_1.jpg",
-    "title_de": "Spejbl & Hurvínek - Böhmisches Paradies",
-    "title_en": "Spejbl & Hurvínek - Bohemian Paradise",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "Rallye Tschechisches paradies (2010)",
+    "desc_en": "Rallye Bohemian Paradise (2010)"
   },
   {
     "img": "img/inst/RA_SaH_Krakonosovo.jpg",
     "thumb": "img/inst/RA_SaH_Krakonosovo1.jpg",
-    "title_de": "Spejbl & Hurvínek - Rübezahl",
-    "title_en": "Spejbl & Hurvínek - Krakonoš",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "In Rübezahls Revier (2009)",
+    "desc_en": "In Rübezahls district (2009)"
   },
   {
     "img": "img/inst/RA_SaH_May_1st.jpg",
     "thumb": "img/inst/RA_SaH_May_1st1.jpg",
-    "title_de": "Spejbl & Hurvínek - 1. Mai",
-    "title_en": "Spejbl & Hurvínek - May 1st",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "May 1st in Berlin (2009)",
+    "desc_en": "May 1st in Berlin (2009)"
   },
   {
     "img": "img/inst/RA_SaH_Solidarnosc.jpg",
     "thumb": "img/inst/RA_SaH_Solidarnosc1.jpg",
-    "title_de": "Spejbl & Hurvínek - Solidarność",
-    "title_en": "Spejbl & Hurvínek - Solidarność",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "Solidarnosc (2009)",
+    "desc_en": "Solidarnosc (2009)"
   },
   {
     "img": "img/inst/RA_SaH_against_communism.jpg",
     "thumb": "img/inst/RA_SaH_against_communism1.jpg",
-    "title_de": "Spejbl & Hurvínek - Gegen Kommunismus",
-    "title_en": "Spejbl & Hurvínek - Against Communism",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "Gegen Kommunismus (2009)",
+    "desc_en": "Against communism (2009)"
   },
   {
     "img": "img/inst/RA_SaH_velikonoce.jpg",
     "thumb": "img/inst/RA_SaH_velikonoce1.jpg",
-    "title_de": "Spejbl & Hurvínek - Ostern",
-    "title_en": "Spejbl & Hurvínek - Easter",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "Frohe Ostern (2009)",
+    "desc_en": "Happy Easter (2009)"
   },
   {
     "img": "img/inst/RA_Dracula.jpg",
     "thumb": "img/inst/RA_Dracula1.jpg",
-    "title_de": "Dracula",
-    "title_en": "Dracula",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Dracula (2009)",
+    "title_en": "Dracula (2009)",
+    "desc_de": "43x54 cm",
+    "desc_en": "43x54 cm"
   },
   {
     "img": "img/inst/RA_SaH_und_tattoo.jpg",
     "thumb": "img/inst/RA_SaH_und_tattoo1.jpg",
-    "title_de": "Spejbl & Hurvínek - Tattoo",
-    "title_en": "Spejbl & Hurvínek - Tattoo",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek",
+    "title_en": "Spejbl & Hurvinek",
+    "desc_de": "Tattoo (2009)",
+    "desc_en": "Tattoo (2009)"
   },
   {
     "img": "img/inst/RA_SaH_tribute_to_Warhol.jpg",
     "thumb": "img/inst/RA_SaH_tribute_to_Warhol1.jpg",
-    "title_de": "Spejbl & Hurvínek - Tribute to Warhol",
-    "title_en": "Spejbl & Hurvínek - Tribute to Warhol",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Tribute to",
+    "title_en": "Spejbl & Hurvinek: Tribute to",
+    "desc_de": "Andy Warhol (2008)",
+    "desc_en": "Andy Warhol (2008)"
   },
   {
     "img": "img/inst/RA_SaH_tennis.jpg",
     "thumb": "img/inst/RA_SaH_tennis1.jpg",
-    "title_de": "Spejbl & Hurvínek - Tennis",
-    "title_en": "Spejbl & Hurvínek - Tennis",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Tennis",
+    "title_en": "Spejbl & Hurvinek: Tennis",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_pedofilni_mord.jpg",
     "thumb": "img/inst/RA_SaH_pedofilni_mord1.jpg",
-    "title_de": "Spejbl & Hurvínek - Pädophiler Mord",
-    "title_en": "Spejbl & Hurvínek - Pedophile Murder",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Der Pädophilenmord",
+    "title_en": "Spejbl & Hurvinek: Paedophilian Balls",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_Eine_blutige_Rache.jpg",
     "thumb": "img/inst/RA_SaH_Eine_blutige_Rache1.jpg",
-    "title_de": "Spejbl & Hurvínek - Eine blutige Rache",
-    "title_en": "Spejbl & Hurvínek - A Bloody Revenge",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Eine blutige Rache",
+    "title_en": "Spejbl & Hurvinek: Eine blutige Rache",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_no_respect.jpg",
     "thumb": "img/inst/RA_SaH_no_respect1.jpg",
-    "title_de": "Spejbl & Hurvínek - No Respect",
-    "title_en": "Spejbl & Hurvínek - No Respect",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: No respect",
+    "title_en": "Spejbl & Hurvinek: No respect",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_S&M-2.jpg",
     "thumb": "img/inst/RA_SaH_S&M-1.jpg",
-    "title_de": "Spejbl & Hurvínek - S&M",
-    "title_en": "Spejbl & Hurvínek - S&M",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Fetisch",
+    "title_en": "Spejbl & Hurvinek: Fetisch",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_GegenNazi-2.jpg",
     "thumb": "img/inst/RA_SaH_GegenNazi-1.jpg",
-    "title_de": "Spejbl & Hurvínek - Gegen Nazi",
-    "title_en": "Spejbl & Hurvínek - Against Nazi",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Gegen Nazi",
+    "title_en": "Spejbl & Hurvinek: Gegen Nazi",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_Gabba2.jpg",
     "thumb": "img/inst/RA_SaH_Gabba1.jpg",
-    "title_de": "Spejbl & Hurvínek - Gabba",
-    "title_en": "Spejbl & Hurvínek - Gabba",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Gabba Gabba Hey",
+    "title_en": "Spejbl & Hurvinek: Gabba Gabba Hey",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_Prag_1968-2.jpg",
     "thumb": "img/inst/RA_SaH_Prag_1968-1.jpg",
-    "title_de": "Spejbl & Hurvínek - Prag 1968",
-    "title_en": "Spejbl & Hurvínek - Prague 1968",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: Prager Frühling 1968",
+    "title_en": "Spejbl & Hurvinek: Prague Spring 1968",
+    "desc_de": "(2008)",
+    "desc_en": "(2008)"
   },
   {
     "img": "img/inst/RA_SaH_EM2008.jpg",
     "thumb": "img/inst/RA_SaH_EM2008-1.jpg",
-    "title_de": "Spejbl & Hurvínek - EM 2008",
-    "title_en": "Spejbl & Hurvínek - Euro 2008",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek: EM 08 Finale (2008)",
+    "title_en": "Spejbl & Hurvinek EM 08 Finale (2008)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/RA-SaH-1.jpg",
     "thumb": "img/inst/RA-SaH-1a.jpg",
-    "title_de": "Spejbl & Hurvínek I",
-    "title_en": "Spejbl & Hurvínek I",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek I. (2008)",
+    "title_en": "Spejbl & Hurvinek I. (2008)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/RA-SaH-2.jpg",
     "thumb": "img/inst/RA-SaH-2a.jpg",
-    "title_de": "Spejbl & Hurvínek II",
-    "title_en": "Spejbl & Hurvínek II",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "Spejbl & Hurvinek II. (2008)",
+    "title_en": "Spejbl & Hurvinek II. (2008)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/RA_ritual.jpg",
     "thumb": "img/inst/RA_ritual-s.jpg",
-    "title_de": "Ritual",
-    "title_en": "Ritual",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Ritual (2007)",
+    "title_en": "Ritual (2007)",
+    "desc_de": "110x76 cm",
+    "desc_en": "110x76 cm"
   },
   {
     "img": "img/inst/ohne_titel.jpg",
     "thumb": "img/inst/ohne_titel-s.jpg",
-    "title_de": "Ohne Titel",
-    "title_en": "Untitled",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Ohne Titel (2006)",
+    "title_en": "Ohne Titel (2006)",
+    "desc_de": "100x400 cm Öl und Acryl auf Leinwand",
+    "desc_en": "100x400 cm Öl und Acryl auf Leinwand"
   },
   {
     "img": "img/inst/stul2.jpg",
     "thumb": "img/inst/stul2a.jpg",
-    "title_de": "Stuhl II",
-    "title_en": "Chair II",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "4 Orchideen Tisch",
+    "title_en": "4 Orchideen Tisch",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/stul1.jpg",
     "thumb": "img/inst/stul1a.jpg",
-    "title_de": "Stuhl I",
-    "title_en": "Chair I",
-    "desc_de": "Holzhocker",
-    "desc_en": "Wooden stool"
+    "title_de": "4 Orchideen Tisch",
+    "title_en": "4 Orchideen Tisch",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/spring-summer.jpg",
     "thumb": "img/inst/spring-summera.jpg",
-    "title_de": "Frühling-Sommer",
-    "title_en": "Spring-Summer",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Frühling, Sommer, Herbst, Winter (2005)",
+    "title_en": "Frühling, Sommer, Herbst, Winter (2005)",
+    "desc_de": "50x30cm Acrylfarbe und Epoxidlack",
+    "desc_en": "50x30cm Acrylfarbe und Epoxidlack"
   },
   {
     "img": "img/inst/angels.jpg",
     "thumb": "img/inst/angelsa.jpg",
-    "title_de": "Engel",
-    "title_en": "Angels",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Engelchen",
+    "title_en": "Engelchen",
+    "desc_de": "gips",
+    "desc_en": "gips"
   },
   {
     "img": "img/inst/jezek.jpg",
     "thumb": "img/inst/jezeka.jpg",
-    "title_de": "Igel",
-    "title_en": "Hedgehog",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Igel im Käfig (1997)",
+    "title_en": "Igel im Käfig (1997)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/battery.jpg",
     "thumb": "img/inst/batterya.jpg",
-    "title_de": "Batterie",
-    "title_en": "Battery",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Energy (Battery) (1998)",
+    "title_en": "Energy (Battery) (1998)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/terrorism.jpg",
     "thumb": "img/inst/terrorisma.jpg",
-    "title_de": "Terrorismus",
-    "title_en": "Terrorism",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Terrorismus und Explozion",
+    "title_en": "Terrorism and the explosion",
+    "desc_de": "terroristischer Bombe (2006): Nägel auf Holz",
+    "desc_en": "98x25cm: Nails on wood"
   },
   {
     "img": "img/inst/steckdose.jpg",
     "thumb": "img/inst/steckdosea.jpg",
-    "title_de": "Steckdose",
-    "title_en": "Power Socket",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Steckdose (1998)",
+    "title_en": "Steckdose (1998)",
+    "desc_de": "98x25cm",
+    "desc_en": "98x25cm"
   },
   {
     "img": "img/inst/wc.jpg",
     "thumb": "img/inst/wca.jpg",
-    "title_de": "WC",
-    "title_en": "WC",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Scheiss Krieg (WC) (2000)",
+    "title_en": "Fucking War (WC) (2000)",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/philippmorris.jpg",
     "thumb": "img/inst/philippmorrisa.jpg",
-    "title_de": "Philip Morris",
-    "title_en": "Philip Morris",
-    "desc_de": "Installation",
-    "desc_en": "Installation"
+    "title_de": "Philipp Morris (1998)",
+    "title_en": "Philipp Morris (1998)",
+    "desc_de": "41x53cm",
+    "desc_en": "41x53cm"
   },
   {
     "img": "img/inst/skrinka21.jpg",
     "thumb": "img/inst/skrinka21a.jpg",
-    "title_de": "Schränkchen II-1",
-    "title_en": "Cabinet II-1",
-    "desc_de": "Holz, Acryl",
-    "desc_en": "Wood, acrylic"
+    "title_de": "Schlüsselschrank",
+    "title_en": "Schlüsselschrank",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/skrinka22.jpg",
     "thumb": "img/inst/skrinka22a.jpg",
-    "title_de": "Schränkchen II-2",
-    "title_en": "Cabinet II-2",
-    "desc_de": "Holz, Acryl",
-    "desc_en": "Wood, acrylic"
+    "title_de": "Schlüsselschrank",
+    "title_en": "Schlüsselschrank",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/skrinka11.jpg",
     "thumb": "img/inst/skrinka11a.jpg",
-    "title_de": "Schränkchen I-1",
-    "title_en": "Cabinet I-1",
-    "desc_de": "Holz, Acryl",
-    "desc_en": "Wood, acrylic"
+    "title_de": "Schmuckkäst Chen",
+    "title_en": "Schmuckkäst Chen",
+    "desc_de": "",
+    "desc_en": ""
   },
   {
     "img": "img/inst/skrinka12.jpg",
     "thumb": "img/inst/skrinka12a.jpg",
-    "title_de": "Schränkchen I-2",
-    "title_en": "Cabinet I-2",
-    "desc_de": "Holz, Acryl",
-    "desc_en": "Wood, acrylic"
+    "title_de": "Schmuckkäst Chen",
+    "title_en": "Schmuckkäst Chen",
+    "desc_de": "",
+    "desc_en": ""
   }
 ]
