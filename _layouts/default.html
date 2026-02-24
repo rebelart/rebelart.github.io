@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="rebel, art, ludek, pesek, pachl, maler, berlin, litvinov, punk, painting, ausstellungen, exhibition">
+  <meta name="description" content=".:REBEL ART:.">
+  <title>{{ page.title | default: "R E B E L  A R T: Ludek Pesek Pachl" }}</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="assets/js/main.js"></script>
+</head>
+<body>
+  <div class="site-wrapper">
+    {% include header.html %}
+    <main class="content">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+title: "REBEL ART: Ludek Pesek Pachl"
+description: ".:REBEL ART:."
+url: "https://rebelart.de"
+baseurl: ""
+
+exclude:
+  - README.md

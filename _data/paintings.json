@@ -1,0 +1,1226 @@
+[
+  {
+    "img": "img/pics/zeru.jpeg",
+    "thumb": "img/pics/zeru.jpeg",
+    "title_de": "Já to lyžování prostě žeru! (2025)",
+    "title_en": "Já to lyžování prostě žeru! (2025)",
+    "desc_de": "Öl auf Leinwand",
+    "desc_en": "Öl auf Leinwand"
+  },
+  {
+    "img": "img/pics/codexgigas.jpg",
+    "thumb": "img/pics/codexgigas.jpg",
+    "title_de": "Codex gigas (2024)",
+    "title_en": "Codex gigas (2024)",
+    "desc_de": "Öl holz / oil an wood - dřevo nalezeno v moři Řecko, 34cm x 60cm",
+    "desc_en": "Öl holz / oil an wood - dřevo nalezeno v moři Řecko, 34cm x 60cm"
+  },
+  {
+    "img": "img/pics/krakos.jpg",
+    "thumb": "img/pics/krakos.jpg",
+    "title_de": "(2022)",
+    "title_en": "(2022)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/rubezahl.jpg",
+    "thumb": "img/pics/rubezahl.jpg",
+    "title_de": "Rübezahl und Skifahrer (2020)",
+    "title_en": "Krakonoš a lyžníci (2020)",
+    "desc_de": "Öl auf Leinwand, 130cm x 90cm",
+    "desc_en": "Olej na Plátně, 130cm x 90cm"
+  },
+  {
+    "img": "img/pics/meniscus.jpg",
+    "thumb": "img/pics/meniscus.jpg",
+    "title_de": "Knieoperation Meniskusoperation (2019)",
+    "title_en": "Knee surgery meniscus operation (2019)",
+    "desc_de": "Acryl auf Leinwand, 45cm x 45cm",
+    "desc_en": "Acryl auf Leinwand, 45cm x 45cm"
+  },
+  {
+    "img": "img/pics/adamundeva.jpg",
+    "thumb": "img/pics/adamundeva.jpg",
+    "title_de": "Adam und Eva (2019)",
+    "title_en": "Adam and Eva (2019)",
+    "desc_de": "Acryl auf Leinwand, 100x100cm",
+    "desc_en": "Acryl auf Leinwand, 100x100cm"
+  },
+  {
+    "img": "img/pics/AskepottIcon.jpg",
+    "thumb": "img/pics/AskepottIcon.jpg",
+    "title_de": "Aschenbrödel Ikone (2015)",
+    "title_en": "Askepott Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/Kapitan.jpg",
+    "thumb": "img/pics/Kapitan.jpg",
+    "title_de": "Spreewald/Kapitän Paul Lossack (2019)",
+    "title_en": "Spreewald/Kapitän Paul Lossack (2019)",
+    "desc_de": "Öl auf Leinwand, 53 x 39 cm",
+    "desc_en": "Öl auf Leinwand, 53 x 39 cm"
+  },
+  {
+    "img": "img/pics/LittleMoleIcon.jpg",
+    "thumb": "img/pics/LittleMoleIcon.jpg",
+    "title_de": "Maulwur Ikone (2015)",
+    "title_en": "Little Mole Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/LittleMoleIcon2.jpg",
+    "thumb": "img/pics/LittleMoleIcon2.jpg",
+    "title_de": "Maulwur Ikone (2015)",
+    "title_en": "Little Mole Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/LittleMoleIcon3.jpg",
+    "thumb": "img/pics/LittleMoleIcon3.jpg",
+    "title_de": "Maulwur Ikone (2015)",
+    "title_en": "Little Mole Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/MartaKubisovaIcon.jpg",
+    "thumb": "img/pics/MartaKubisovaIcon.jpg",
+    "title_de": "Marta Kubisova Ikone (2015)",
+    "title_en": "Marta Kubisova Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/VaclavHavelIcon.jpg",
+    "thumb": "img/pics/VaclavHavelIcon.jpg",
+    "title_de": "Vaclav Havel Ikone (2015)",
+    "title_en": "Vaclav Havel Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/PatMatIcon.jpg",
+    "thumb": "img/pics/PatMatIcon.jpg",
+    "title_de": "Pat & Mat Ikone (2015)",
+    "title_en": "Pat & Mat Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/SpejblHurvinekIcon.jpg",
+    "thumb": "img/pics/SpejblHurvinekIcon.jpg",
+    "title_de": "Spejbl & Hurvinek Ikone (2015)",
+    "title_en": "Spejbl & Hurvinek Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/KarelGottIcon.jpg",
+    "thumb": "img/pics/KarelGottIcon.jpg",
+    "title_de": "Karel Gott Ikone (2015)",
+    "title_en": "Karel Gott Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RumburakIcon.jpg",
+    "thumb": "img/pics/RumburakIcon.jpg",
+    "title_de": "Rumburak Ikone (2015)",
+    "title_en": "Rumburak Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/AlexenderDubcekIcon.jpg",
+    "thumb": "img/pics/AlexenderDubcekIcon.jpg",
+    "title_de": "Alexender Dubcek Ikone (2015)",
+    "title_en": "Alexender Dubcek Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RumcajsIcon.jpg",
+    "thumb": "img/pics/RumcajsIcon.jpg",
+    "title_de": "Rumcajs Ikone (2015)",
+    "title_en": "Rumcajs Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/Schwejk.JPG",
+    "thumb": "img/pics/Schwejk.JPG",
+    "title_de": "Schwejk Ikone (2015)",
+    "title_en": "Svejk Icon (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/PEDRO.JPG",
+    "thumb": "img/pics/PEDRO.JPG",
+    "title_de": "PEDRO (2015)",
+    "title_en": "PEDRO (2015)",
+    "desc_de": "Acryl auf Leinwand, 1x1 m",
+    "desc_en": "Acryl on canvas, 1x1 m"
+  },
+  {
+    "img": "img/pics/JeSuisCharlie.JPG",
+    "thumb": "img/pics/JeSuisCharlie.JPG",
+    "title_de": "Je Suis Charlie!!! (2015)",
+    "title_en": "Je Suis Charlie!!! (2015)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/Batman.JPG",
+    "thumb": "img/pics/Batman.JPG",
+    "title_de": "Batman (2015)",
+    "title_en": "Batman (2015)",
+    "desc_de": "55x95 cm",
+    "desc_en": "55x95 cm"
+  },
+  {
+    "img": "img/pics/RA-HERZ.JPG",
+    "thumb": "img/pics/RA-HERZ.JPG",
+    "title_de": "HEART (2015)",
+    "title_en": "HEART (2015)",
+    "desc_de": "Acryl auf Leinwand, 1x1 m",
+    "desc_en": "Acryl on canvas, 1x1 m"
+  },
+  {
+    "img": "img/pics/RA-frohe-ostern-maulwurf.jpg",
+    "thumb": "img/pics/RA-frohe-ostern-maulwurf.jpg",
+    "title_de": "Frohe Ostern Maulwurf - Jesus Christus - Heilige Lanze (2015)",
+    "title_en": "Happy Easter! the Mole - Jesus Christ - Holy Lance (2015)",
+    "desc_de": "Acryl auf Leinwand, 40x50 cm",
+    "desc_en": "Acryl on canvas, 40x50 cm"
+  },
+  {
+    "img": "img/pics/RA-karel-kryl-1.jpg",
+    "thumb": "img/pics/RA-karel-kryl-1.jpg",
+    "title_de": "Karel Kryl (2014)",
+    "title_en": "Karel Kryl (2014)",
+    "desc_de": "Acryl auf Leinwand, 78x86 cm",
+    "desc_en": "Acryl on canvas, 78x86 cm"
+  },
+  {
+    "img": "img/pics/RA-DER-BRAVE-SOLDAT-SCHWEJK-1.jpg",
+    "thumb": "img/pics/RA-DER-BRAVE-SOLDAT-SCHWEJK-1.jpg",
+    "title_de": "The Good Soldier Schweik (2013)",
+    "title_en": "",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA-Vaclav-Vasek-Ikone-1.jpg",
+    "thumb": "img/pics/RA-Vaclav-Vasek-Ikone-1.jpg",
+    "title_de": "Vaclav - Vasek - Icon (2013)",
+    "title_en": "",
+    "desc_de": "Acryl on wood, 29x43 cm",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA-nevim-1.jpg",
+    "thumb": "img/pics/RA-nevim-1.jpg",
+    "title_de": "Kostelecke uzeniny (2013)",
+    "title_en": "",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA-Maulwurf-Abflug-von-der-Apokalypse-1.jpg",
+    "thumb": "img/pics/RA-Maulwurf-Abflug-von-der-Apokalypse-1-1.jpg",
+    "title_de": "Maulwurf / Abflug von",
+    "title_en": "Mole / Departure of the",
+    "desc_de": "Acryl auf Leinwand, 50x70 cm",
+    "desc_en": "Acryl on canvas, 50x70 cm"
+  },
+  {
+    "img": "img/pics/RA-Maulwurf-frohe-ostern-kreuzigung.jpg",
+    "thumb": "img/pics/RA-Maulwurf-frohe-ostern-kreuzigung-1.jpg",
+    "title_de": "Maulwurf - Frohe Ostern",
+    "title_en": "Mole - Easter Day",
+    "desc_de": "Acryl auf Leinwand, 50x70 cm",
+    "desc_en": "Acryl on canvas, 50x70 cm"
+  },
+  {
+    "img": "img/pics/RA-Maulwurf-Abflug-von-der-Apokalypse-2.jpg",
+    "thumb": "img/pics/RA-Maulwurf-Abflug-von-der-Apokalypse-2-1.jpg",
+    "title_de": "Maulwurf / Abflug von der Apokalypse 1. (2014) - Kreuzigung (2014) der Apokalypse 2. (2014)",
+    "title_en": "Mole / Departure of the Apocalypse 1. (2014) - Crucifixion (2014) Apocalypse 2. (2014)",
+    "desc_de": "Acryl auf Leinwand, 50x70 cm",
+    "desc_en": "Acryl on canvas, 50x70 cm"
+  },
+  {
+    "img": "img/pics/RA-ditktator.jpg",
+    "thumb": "img/pics/RA-ditktator-1.jpg",
+    "title_de": "L&F: Der große Diktator (2013)",
+    "title_en": "L&F: Big Dictator (2013)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Scream.jpg",
+    "thumb": "img/pics/RA_Scream_1.jpg",
+    "title_de": "L&F: Der Schrei (2013)",
+    "title_en": "L&F: The Scream (2013)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Kanka_lasky.jpg",
+    "thumb": "img/pics/RA_Kanka_lasky_1.jpg",
+    "title_de": "L&F: Ein Klecks des Guten und der Liebe siegt über den Hass und dasBöse!!! (2013)",
+    "title_en": "L&F: A Dollop of Good and of Love Triumphs over Hatred and Evil!!! (2013)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_Krtecek_II.png",
+    "thumb": "img/pics/RA_Darth_Vader_1.jpg",
+    "title_de": "L&F: Darth Vader (2013)",
+    "title_en": "L&F: Darth Vader (2013)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_HC_Litvninov.jpg",
+    "thumb": "img/pics/RA_HC_Litvninov1.jpg",
+    "title_de": "L&F: CHEMOPETROL HC Litvinov",
+    "title_en": "L&F: CHEMOPETROL HC Litvinov",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Oil on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_Krtecek_II.png",
+    "thumb": "img/pics/RA_LF_Krtecek_II_1.png",
+    "title_de": "L&F Der Kleine Maulwurf II.",
+    "title_en": "LOVE & FETISH (The Mole II.)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_Batman.png",
+    "thumb": "img/pics/RA_LF_Batman_1.png",
+    "title_de": "LOVE & FETISH (Batman)",
+    "title_en": "LOVE & FETISH (Batman)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Krtecek.jpg",
+    "thumb": "img/pics/RA_Krtecek_1.jpg",
+    "title_de": "LOVE & FETISH (Hexe)",
+    "title_en": "LOVE & FETISH (The Mole)",
+    "desc_de": "Acryl auf Leinwand, 50x50 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Carodejnice.jpg",
+    "thumb": "img/pics/RA_Carodejnice_1.jpg",
+    "title_de": "LOVE & FETISH (Schneeflocken)",
+    "title_en": "LOVE & FETISH (Witch)",
+    "desc_de": "Acryl auf Leinwand, 50x50 cm",
+    "desc_en": "Acryl on canvas, 50x50 cm"
+  },
+  {
+    "img": "img/pics/RA_Snowflake.jpg",
+    "thumb": "img/pics/RA_Snowflake_1.jpg",
+    "title_de": "LOVE & FETISH (Schneeflocken)",
+    "title_en": "LOVE & FETISH (Snowflake)",
+    "desc_de": "Acryl auf Leinwand, 50x50 cm",
+    "desc_en": "Acryl on canvas, 50x50 cm"
+  },
+  {
+    "img": "img/pics/RA_pirat.jpg",
+    "thumb": "img/pics/RA_pirat1.jpg",
+    "title_de": "Pirat (2011)",
+    "title_en": "Pirate (2011)",
+    "desc_de": "Öl auf Leinwand, 97x76 cm",
+    "desc_en": "Oil on canvas, 97x76 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_penis.jpg",
+    "thumb": "img/pics/RA_LF_penis1.jpg",
+    "title_de": "LOVE & FETISH I (Penis)",
+    "title_en": "LOVE & FETISH I (Penis)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_hippies.jpg",
+    "thumb": "img/pics/RA_LF_hippies1.jpg",
+    "title_de": "LOVE & FETISH XIV (Hipies)",
+    "title_en": "LOVE & FETISH XIV (Hipies)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_mir.jpg",
+    "thumb": "img/pics/RA_LF_mir1.jpg",
+    "title_de": "LOVE & FETISH II (Peace)",
+    "title_en": "LOVE & FETISH II (Peace)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_playboy.jpg",
+    "thumb": "img/pics/RA_LF_playboy1.jpg",
+    "title_de": "LOVE & FETISH III (Playboy)",
+    "title_en": "LOVE & FETISH III (Playboy)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_ruka.jpg",
+    "thumb": "img/pics/RA_LF_ruka1.jpg",
+    "title_de": "LOVE & FETISH IV (Hand)",
+    "title_en": "LOVE & FETISH IV (Hand)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_mas_fem.jpg",
+    "thumb": "img/pics/RA_LF_mas_fem1.jpg",
+    "title_de": "LOVE & FETISH V (Maskulin Feminin)",
+    "title_en": "LOVE & FETISH V (Maskulin Feminin)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_heart.jpg",
+    "thumb": "img/pics/RA_LF_heart1.jpg",
+    "title_de": "LOVE & FETISH VI (Heart)",
+    "title_en": "LOVE & FETISH VI (Heart)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_pouta.jpg",
+    "thumb": "img/pics/RA_LF_pouta1.jpg",
+    "title_de": "LOVE & FETISH VII (Handcuff)",
+    "title_en": "LOVE & FETISH VII (Handcuff)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_smrtihlav.jpg",
+    "thumb": "img/pics/RA_LF_smrtihlav1.jpg",
+    "title_de": "LOVE & FETISH VIII (Death's-head)",
+    "title_en": "LOVE & FETISH VIII (Death's-head)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_polibek.jpg",
+    "thumb": "img/pics/RA_LF_polibek1.jpg",
+    "title_de": "Kuss",
+    "title_en": "Kiss",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_vitezstvi.jpg",
+    "thumb": "img/pics/RA_LF_vitezstvi1.jpg",
+    "title_de": "LOVE & FETISH XI (Victory)",
+    "title_en": "LOVE & FETISH XI (Victory)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_colt.jpg",
+    "thumb": "img/pics/RA_LF_colt1.jpg",
+    "title_de": "LOVE & FETISH XII (Colt)",
+    "title_en": "LOVE & FETISH XII (Colt)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_LF_labute.jpg",
+    "thumb": "img/pics/RA_LF_labute1.jpg",
+    "title_de": "LOVE & FETISH XIII (Swans)",
+    "title_en": "LOVE & FETISH XIII (Swans)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Nocni_vysadek.jpg",
+    "thumb": "img/pics/RA_Nocni_vysadek_1.jpg",
+    "title_de": "NachtLandung (2010)",
+    "title_en": "Night Airdrop (2010)",
+    "desc_de": "Öl auf Leinwand 80x80 cm",
+    "desc_en": "Oil on canvas 80x80 cm"
+  },
+  {
+    "img": "img/pics/RA_Neapol_II.jpg",
+    "thumb": "img/pics/RA_Neapol_II_1.jpg",
+    "title_de": "Neapol II - Selbst Porträt (2010)",
+    "title_en": "Neapol II - Self-portrait",
+    "desc_de": "Öl und Acryl auf Leinwand",
+    "desc_en": "Oil and Acryl on canvas"
+  },
+  {
+    "img": "img/pics/RA_SaH_pan_Tau.jpg",
+    "thumb": "img/pics/RA_SaH_pan_Tau-1.jpg",
+    "title_de": "Tatort, Spejbl & Hurvinek und ermorden pan Tau (2010)",
+    "title_en": "Tatort, Spejbl & Hurvinek and murdered pan Tau (2010)",
+    "desc_de": "Acryl auf Leinwand 125x125 cm",
+    "desc_en": "Acryl on canvas 125x125 cm"
+  },
+  {
+    "img": "img/pics/RA_Pravda_a_laska_I.jpg",
+    "thumb": "img/pics/RA_Pravda_a_laska_I-1.jpg",
+    "title_de": "Wahrheit und Liebe sollten über Lüge und Hass siegen! (2010)",
+    "title_en": "Truth and love must prevail over lies and hate! (2010)",
+    "desc_de": "Acryl auf Leinwand 100x100 cm",
+    "desc_en": "Acryl on canvas 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Pravda_a_laska_II.jpg",
+    "thumb": "img/pics/RA_Pravda_a_laska_II-1.jpg",
+    "title_de": "Wahrheit und Liebe sollten über Lüge und Hass siegen! (2010)",
+    "title_en": "Truth and love must prevail over lies and hate! (2010)",
+    "desc_de": "Acryl auf Leinwand 100x100 cm",
+    "desc_en": "Acryl on canvas 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Pedofilien_Mord_IV.jpg",
+    "thumb": "img/pics/RA_Pedofilien_Mord_IV-1.jpg",
+    "title_de": "Der Pädophilenmord IV (2010)",
+    "title_en": "Paedophilian Balls IV (2010)",
+    "desc_de": "Acryl auf Leinwand 125x125 cm",
+    "desc_en": "Acryl on canvas 125x125 cm"
+  },
+  {
+    "img": "img/pics/RA_Winter_Jesus.jpg",
+    "thumb": "img/pics/RA_Winter_Jesus1.jpg",
+    "title_de": "Winter Jesus (2009)",
+    "title_en": "Winter Jesus (2009)",
+    "desc_de": "Öl und Acryl auf Leinwand 210x150 cm",
+    "desc_en": "Oil and Acryl on canvas 210x150 cm"
+  },
+  {
+    "img": "img/pics/RA_BlackJesus.jpg",
+    "thumb": "img/pics/RA_BlackJesus1.jpg",
+    "title_de": "Black Jesus (2009)",
+    "title_en": "Black Jesus (2009)",
+    "desc_de": "Öl und Acryl auf Leinwand 210x150 cm",
+    "desc_en": "Oil and Acryl on canvas 210x150 cm"
+  },
+  {
+    "img": "img/pics/RA_U_hrocha.jpg",
+    "thumb": "img/pics/RA_U_hrocha1.jpg",
+    "title_de": "\"U hrocha\" (2009)",
+    "title_en": "\"U hrocha\" (2009)",
+    "desc_de": "Öl und Acryl auf Leinwand 50x50 cm",
+    "desc_en": "Oil and Acryl on canvas 50x50 cm"
+  },
+  {
+    "img": "img/pics/RA_SolidarnoscW.jpg",
+    "thumb": "img/pics/RA_SolidarnoscW1.jpg",
+    "title_de": "Solidarnosc I. (2009)",
+    "title_en": "Solidarnosc I. (2009)",
+    "desc_de": "Acryl auf Leinwand",
+    "desc_en": "Acryl on canvas"
+  },
+  {
+    "img": "img/pics/RA_Solidarnosc.jpg",
+    "thumb": "img/pics/RA_Solidarnosc1.jpg",
+    "title_de": "Solidarnosc II. (2009)",
+    "title_en": "Solidarnosc II. (2009)",
+    "desc_de": "Acryl auf Leinwand",
+    "desc_en": "Acryl on canvas 50x50 cm"
+  },
+  {
+    "img": "img/pics/RA_prvni_pomoc.jpg",
+    "thumb": "img/pics/RA_prvni_pomoc1.jpg",
+    "title_de": "Gastarbeiter in New York (2009)",
+    "title_en": "Gastarbeiter in New York (2009)",
+    "desc_de": "cut&paste",
+    "desc_en": "cut&paste"
+  },
+  {
+    "img": "img/pics/RA_Pedofilien_Mord_II-2.jpg",
+    "thumb": "img/pics/RA_Pedofilien_Mord_II-1.jpg",
+    "title_de": "Der Pädophilenmord II. (2008)",
+    "title_en": "Paedophilian Balls II. (2008)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Pedofilien_Mord_III-2.jpg",
+    "thumb": "img/pics/RA_Pedofilien_Mord_III-1.jpg",
+    "title_de": "Der Pädophilenmord III.(2008)",
+    "title_en": "Paedophilian Balls III.(2008)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA-Olympis_in_China.jpg",
+    "thumb": "img/pics/RA-Olympis_in_China1.jpg",
+    "title_de": "Rot gelbe Olympiade in China (2008)",
+    "title_en": "Red-Yellow Olympics in China (2008)",
+    "desc_de": "Acryl auf Leinwand, 100x100 cm",
+    "desc_en": "Acryl on canvas, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA-Surfing.jpg",
+    "thumb": "img/pics/RA-Surfing1.jpg",
+    "title_de": "Surfen im Geldsee (2008)",
+    "title_en": "Surfing in sea of money (2008)",
+    "desc_de": "Öl und Geld auf Leinwand, 100x100 cm",
+    "desc_en": "Oil and money on canvass, 100x100 cm"
+  },
+  {
+    "img": "img/pics/RA_mygodridesaskateboard.jpg",
+    "thumb": "img/pics/RA_mygodridesaskateboard1.jpg",
+    "title_de": "Ohne Titel (2008)",
+    "title_en": "My God Rides a Skateboard (2008)",
+    "desc_de": "Acryl auf skateboard",
+    "desc_en": "Acryl on skateboard"
+  },
+  {
+    "img": "img/pics/RA_Secmazecmazanec.jpg",
+    "thumb": "img/pics/RA_Secmazecmazanec1.jpg",
+    "title_de": "Secmazecmazanec (2008)",
+    "title_en": "Secmazecmazanec (2008)",
+    "desc_de": "Acryl auf Leinwand, 50x85 cm",
+    "desc_en": "Acryl on canvas, 50x85 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_XIII.jpg",
+    "thumb": "img/pics/RA-Hawaii_XIII1.jpg",
+    "title_de": "\"Hawaii XIII - Selbst Porträt\" (2008)",
+    "title_en": "\"Hawaii XIII - Selbst Porträt\" (2008)",
+    "desc_de": "Öl auf Leinwand, 80x80 cm",
+    "desc_en": "Oil on canvas, 80x80 cm"
+  },
+  {
+    "img": "img/pics/RA-Nemoznost_vycestovani.jpg",
+    "thumb": "img/pics/RA-Nemoznost_vycestovani-1.jpg",
+    "title_de": "Ausreisen unmöglich (2007)",
+    "title_en": "The impossibility of emigration (2007)",
+    "desc_de": "Acryl auf holz, 60x60 cm",
+    "desc_en": "Acryl on wood, 60x60 cm"
+  },
+  {
+    "img": "img/pics/RA-Katja_a_ja-I.jpg",
+    "thumb": "img/pics/RA-Katja_a_ja-I-1.jpg",
+    "title_de": "Katja und Ich (2007)",
+    "title_en": "Katja and me (2007)",
+    "desc_de": "Acryl auf holz, 51x48 cm",
+    "desc_en": "Acryl on wood, 51x48 cm"
+  },
+  {
+    "img": "img/pics/RA-Katja_a_ja-II.jpg",
+    "thumb": "img/pics/RA-Katja_a_ja-II-1.jpg",
+    "title_de": "Katja und Ich (2007)",
+    "title_en": "Katja and me (2007)",
+    "desc_de": "Acryl auf holz, 51x48 cm",
+    "desc_en": "Acryl on wood, 51x48 cm"
+  },
+  {
+    "img": "img/pics/RA_Pan_knedlik.jpg",
+    "thumb": "img/pics/RA_Pan_knedlik1.jpg",
+    "title_de": "Pan Knedlik, Goldenes Prag und Goldene Tschechische Hände (2007)",
+    "title_en": "Pan Knedlik, golden Prague and golden czech hand (2007)",
+    "desc_de": "Acryl auf Leinwand, 80x80 cm",
+    "desc_en": "Acryl on canvas, 80x80 cm"
+  },
+  {
+    "img": "img/pics/RA_Punkovy_podzim.jpg",
+    "thumb": "img/pics/RA_Punkovy_podzim1.jpg",
+    "title_de": "Punk-Herbst in Zizkov (2007)",
+    "title_en": "Punk autumn in Zizkov (2007)",
+    "desc_de": "Acryl auf Leinwand, 60x100 cm",
+    "desc_en": "Acryl on canvas, 60x100 cm"
+  },
+  {
+    "img": "img/pics/RA_Zatisi_s_Plzni.jpg",
+    "thumb": "img/pics/RA_Zatisi_s_Plzni1.jpg",
+    "title_de": "Stilleben mit Markknochen und Pilsner Urquell (2007)",
+    "title_en": "Still life with the marrowbones and the Pilsner Urquell (2007)",
+    "desc_de": "Öl und Acryl auf Leinwand, 60x70 cm",
+    "desc_en": "Oil and Acryl on canvas, 60x70 cm"
+  },
+  {
+    "img": "img/pics/Pachl-Jelen_v_riji.jpg",
+    "thumb": "img/pics/Pachl-Jelen_v_riji-1.jpg",
+    "title_de": "Hirsch in der Brunftzeit (2007)",
+    "title_en": "\"Belling of the stag\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 30x30 cm",
+    "desc_en": "Acryl on canvas, 30x30 cm"
+  },
+  {
+    "img": "img/pics/RA_Hawaii_XII.jpg",
+    "thumb": "img/pics/RA_Hawaii_XII-1.jpg",
+    "title_de": "\"Hawaii XII\" (2007)",
+    "title_en": "\"Hawaii XII\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 60x75 cm",
+    "desc_en": "Acryl on canvas, 60x75 cm"
+  },
+  {
+    "img": "img/pics/RA_Hawaii_XI.jpg",
+    "thumb": "img/pics/RA_Hawaii_XI-1.jpg",
+    "title_de": "\"Hawaii XI\" (2007)",
+    "title_en": "\"Hawaii XI\" (2007)",
+    "desc_de": "Hartfaser, 30x40 cm",
+    "desc_en": "Hartfaser, 30x40 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_X.jpg",
+    "thumb": "img/pics/RA-Hawaii_X-1.jpg",
+    "title_de": "\"Hawaii X\" (2007)",
+    "title_en": "\"Hawaii X\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 70x40 cm",
+    "desc_en": "Acryl on canvas, 70x40 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_IX.jpg",
+    "thumb": "img/pics/RA-Hawaii_IX-1.jpg",
+    "title_de": "\"Hawaii IX\" (2007)",
+    "title_en": "\"Hawaii IX\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 70x40 cm",
+    "desc_en": "Acryl on canvas, 70x40 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_VIII.jpg",
+    "thumb": "img/pics/RA-Hawaii_VIII-1.jpg",
+    "title_de": "\"Hawaii VIII\" (2007)",
+    "title_en": "\"Hawaii VIII\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 70x40 cm",
+    "desc_en": "Acryl on canvas, 70x40 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_VII.jpg",
+    "thumb": "img/pics/RA-Hawaii_VII-1.jpg",
+    "title_de": "\"Hawaii VII\" (2007)",
+    "title_en": "\"Hawaii VII\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 70x40 cm",
+    "desc_en": "Acryl on canvas, 70x40 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_VI.jpg",
+    "thumb": "img/pics/RA-Hawaii_VI-1.jpg",
+    "title_de": "\"Hawaii VI\" (2007)",
+    "title_en": "\"Hawaii VI\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 70x40 cm",
+    "desc_en": "Acryl on canvas, 70x40 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_V.jpg",
+    "thumb": "img/pics/RA-Hawaii_V-1.jpg",
+    "title_de": "\"Hawaii V\" (2007)",
+    "title_en": "\"Hawaii V\" (2007)",
+    "desc_de": "Acryl auf Leinwand, 43x25 cm",
+    "desc_en": "Acryl on canvas, 43x25 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_IV.jpg",
+    "thumb": "img/pics/RA-Hawaii_IV-1.jpg",
+    "title_de": "\"Hawaii IV\" (2007)",
+    "title_en": "\"Hawaii IV\" (2007)",
+    "desc_de": "Hartfaser, 30x39 cm",
+    "desc_en": "Hartfaser, 30x39 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_III.jpg",
+    "thumb": "img/pics/RA-Hawaii_III-1.jpg",
+    "title_de": "\"Hawaii III\" (2007)",
+    "title_en": "\"Hawaii III\" (2007)",
+    "desc_de": "Hartfaser, 30x37 cm",
+    "desc_en": "Hartfaser, 30x37 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_II.jpg",
+    "thumb": "img/pics/RA-Hawaii_II-1.jpg",
+    "title_de": "\"Hawaii II\" (2007)",
+    "title_en": "\"Hawaii II\" (2007)",
+    "desc_de": "Hartfaser, 30x39 cm",
+    "desc_en": "Hartfaser, 30x39 cm"
+  },
+  {
+    "img": "img/pics/RA-Hawaii_I.jpg",
+    "thumb": "img/pics/RA-Hawaii_I-1.jpg",
+    "title_de": "\"Hawaii I\" (2007)",
+    "title_en": "\"Hawaii I\" (2007)",
+    "desc_de": "Hartfaser, 46x18 cm",
+    "desc_en": "Hartfaser, 46x18 cm"
+  },
+  {
+    "img": "img/pics/kolo_stesti1.jpg",
+    "thumb": "img/pics/kolo_stesti1-s.jpg",
+    "title_de": "Das Schicksalsrad des Glücks und Unglücks (2006)",
+    "title_en": "Wheel of Fortune and Misfortune (2006)",
+    "desc_de": "Öl und Acryl Farbe auf Holz, 120x120 cm",
+    "desc_en": "Oil and Acryl on wood, 120x120 cm"
+  },
+  {
+    "img": "img/pics/kolo_stesti2.jpg",
+    "thumb": "img/pics/kolo_stesti2-a.jpg",
+    "title_de": "Das Schicksalsrad des Glücks und Unglücks (2006)",
+    "title_en": "Wheel of Fortune and Misfortune (2006)",
+    "desc_de": "Öl und Acryl Farbe auf Holz, 120x120 cm",
+    "desc_en": "Oil and Acryl on wood, 120x120 cm"
+  },
+  {
+    "img": "img/pics/RA_Praha_komunisticka.jpg",
+    "thumb": "img/pics/RA_Praha_komunisticka1.jpg",
+    "title_de": "Prague, 70ties, communist, Husak and autumn one, besides is raining (2007)",
+    "title_en": "Prague, 70ties, communists, Husak´s and autumn one, besides is raining (2007)",
+    "desc_de": "Acryl auf Leinwand, 100x110 cm",
+    "desc_en": "Acryl on canvas, 100x110 cm"
+  },
+  {
+    "img": "img/pics/autoportret.jpg",
+    "thumb": "img/pics/autoportet_a.jpg",
+    "title_de": "Selbst Porträt (2006)",
+    "title_en": "Self-portrait (2006)",
+    "desc_de": "Öl und Acryl auf Leinwand 30x24 cm",
+    "desc_en": "Oil and Acryl on canvas 30x24 cm"
+  },
+  {
+    "img": "img/pics/bad.jpg",
+    "thumb": "img/pics/bad_a.jpg",
+    "title_de": "Das Übel (2006)",
+    "title_en": "The Evil (2006) 2 x 100x100 cm",
+    "desc_de": "Acryl auf Leinwand 2 x 100x100 cm",
+    "desc_en": "Acryl on canvas"
+  },
+  {
+    "img": "img/pics/situations.jpg",
+    "thumb": "img/pics/situations_a.jpg",
+    "title_de": "Situations Album cover(2006)",
+    "title_en": "Situations Album cover (2006)",
+    "desc_de": "Acryl auf Leinwand 60x50 cm",
+    "desc_en": "Acryl on canvas 60x50 cm"
+  },
+  {
+    "img": "img/pics/ball.jpg",
+    "thumb": "img/pics/balla.jpg",
+    "title_de": "Der Ball ist Rund (2005)",
+    "title_en": "The Ball is Round (2005)",
+    "desc_de": "Acryl auf holz, 60x72 cm",
+    "desc_en": "Acryl on wood, 60x72 cm"
+  },
+  {
+    "img": "img/pics/world_cup_06.jpg",
+    "thumb": "img/pics/world_cup_06a.jpg",
+    "title_de": "World Cup 2006 triptychon (2006)",
+    "title_en": "World Cup 2006 triptychon (2006)",
+    "desc_de": "Acryl auf Leinwand",
+    "desc_en": "Acryl on canvas"
+  },
+  {
+    "img": "img/pics/pizza_mafioso.jpg",
+    "thumb": "img/pics/pizza_mafioso-a.jpg",
+    "title_de": "Pizza Mafiosi (2006)",
+    "title_en": "Pizza Mafiosi (2006)",
+    "desc_de": "Acryl auf Leinwand, 115x95 cm",
+    "desc_en": "Acryl on canvas, 115x95 cm"
+  },
+  {
+    "img": "img/pics/atlas.jpg",
+    "thumb": "img/pics/atlasa.jpg",
+    "title_de": "Atlas und seiner schwere Einwurf des Outes (2005)",
+    "title_en": "Atlas and His Heavy Throwing the Out (2005)",
+    "desc_de": "Acryl auf holz, 60x72 cm",
+    "desc_en": "Acryl on wood, 60x72 cm"
+  },
+  {
+    "img": "img/pics/rubik1.jpg",
+    "thumb": "img/pics/rubik1a.jpg",
+    "title_de": "Rubik´s Cube (triptychon)(2005)",
+    "title_en": "Rubik´s Cube (triptychon)(2005)",
+    "desc_de": "Acryl auf Leinwand, 3 x 100x100 cm",
+    "desc_en": "Acryl on canvas, 3 x 100x100 cm"
+  },
+  {
+    "img": "img/pics/rubik2.jpg",
+    "thumb": "img/pics/rubik2a.jpg",
+    "title_de": "Rubik´s Cube (triptychon)(2005)",
+    "title_en": "Rubik´s Cube (triptychon)(2005)",
+    "desc_de": "Acryl auf Leinwand, 3 x 100x100 cm",
+    "desc_en": "Acryl on canvas, 3 x 100x100 cm"
+  },
+  {
+    "img": "img/pics/rubik3.jpg",
+    "thumb": "img/pics/rubik3a.jpg",
+    "title_de": "Rubik´s Cube (triptychon)(2005)",
+    "title_en": "Rubik´s Cube (triptychon)(2005)",
+    "desc_de": "Acryl auf Leinwand, 3 x 100x100 cm",
+    "desc_en": "Acryl on canvas, 3 x 100x100 cm"
+  },
+  {
+    "img": "img/pics/mord.jpg",
+    "thumb": "img/pics/morda.jpg",
+    "title_de": "Der Pädophilenmord (2005)",
+    "title_en": "Paedophilian Balls (2005)",
+    "desc_de": "Öl und acryl auf Leinwand 125x125 cm",
+    "desc_en": "Oil & Acryl on canvas 125x125 cm"
+  },
+  {
+    "img": "img/pics/dirtshit.jpg",
+    "thumb": "img/pics/dirtshita.jpg",
+    "title_de": "Dirt Shit: album cover (2005)",
+    "title_en": "Dirt Shit: album cover (2005)",
+    "desc_de": "Acryl auf Leinwand, 50x50 cm",
+    "desc_en": "Acryl on canvas, 50x50 cm"
+  },
+  {
+    "img": "img/pics/neighbour.jpg",
+    "thumb": "img/pics/neighboura.jpg",
+    "title_de": "Mein Verrückter Nachbar (2005)",
+    "title_en": "My Crazy Neighbour (2005)",
+    "desc_de": "Öl auf Leinwand und Acryl, 50x50 & 60x80 cm",
+    "desc_en": "Oil & Acryl on canvas 50x50 & 60x80 cm"
+  },
+  {
+    "img": "img/pics/jp2.jpg",
+    "thumb": "img/pics/jp2a.jpg",
+    "title_de": "J.P. II. is dead (2005)",
+    "title_en": "J.P. II. is dead (2005)",
+    "desc_de": "acryl & synthetische farbe auf Leinwand, 65x75cm",
+    "desc_en": "acryl and synthetic paint on canvas, 65x75cm"
+  },
+  {
+    "img": "img/pics/domeksbrizou.jpg",
+    "thumb": "img/pics/domeksbrizoua.jpg",
+    "title_de": "Ohne Titel (2003)",
+    "title_en": "Without Title (2003)",
+    "desc_de": "Acryl auf Leinwand, 60x34 cm",
+    "desc_en": "Acryl on canvas, 60x34 cm"
+  },
+  {
+    "img": "img/pics/battle.jpg",
+    "thumb": "img/pics/battlea.jpg",
+    "title_de": "Kampf der Titanen (2005)",
+    "title_en": "Battle of the Titans (2005)",
+    "desc_de": "Acryl auf Leinwand, 75 x 75 cm",
+    "desc_en": "Acryl on canvas, 75 x 75 cm"
+  },
+  {
+    "img": "img/pics/kata.jpg",
+    "thumb": "img/pics/kataa.jpg",
+    "title_de": "Katja (2005)",
+    "title_en": "Katja (2005)",
+    "desc_de": "Öl auf leinwand, 150x100cm",
+    "desc_en": "Oil on canvas, 150x100cm"
+  },
+  {
+    "img": "img/pics/titanic1.jpg",
+    "thumb": "img/pics/titanica1.jpg",
+    "title_de": "Titanic (triptychon)(1999)",
+    "title_en": "Titanic (triptychon)(1999)",
+    "desc_de": "Öl auf Holz, 55x177 cm",
+    "desc_en": "Oil on wood, 55x177 cm"
+  },
+  {
+    "img": "img/pics/titanic2.jpg",
+    "thumb": "img/pics/titanica2.jpg",
+    "title_de": "Titanic (triptychon)(1999)",
+    "title_en": "Titanic (triptychon)(1999)",
+    "desc_de": "Öl auf Holz, 55x177 cm",
+    "desc_en": "Oil on wood, 55x177 cm"
+  },
+  {
+    "img": "img/pics/titanic3.jpg",
+    "thumb": "img/pics/titanica3.jpg",
+    "title_de": "Titanic (triptychon)(1999)",
+    "title_en": "Titanic (triptychon)(1999)",
+    "desc_de": "Öl auf Holz, 55x177 cm",
+    "desc_en": "Oil on wood, 55x177 cm"
+  },
+  {
+    "img": "img/pics/sars.jpg",
+    "thumb": "img/pics/sarsa.jpg",
+    "title_de": "VIRUS H5N1 vogel grippe(2005)",
+    "title_en": "VIRUS H5N1 Bird Flu (2005)",
+    "desc_de": "126x50cm synthetische farbe auf plexi",
+    "desc_en": "126x50cm synthetic paint on plexiglass"
+  },
+  {
+    "img": "img/pics/rackety.jpg",
+    "thumb": "img/pics/racketya.jpg",
+    "title_de": "Rackety Records (2005)",
+    "title_en": "Rackety Records (2005)",
+    "desc_de": "Acryl & Nitro Emaille, 75x75 cm",
+    "desc_en": "Acryl & Nitro Enamel, 75x75 cm"
+  },
+  {
+    "img": "img/pics/sunsetintheredsea.jpg",
+    "thumb": "img/pics/sunsetintheredseaa.jpg",
+    "title_de": "Sonnenuntergang im Roten Meer",
+    "title_en": "Sunset In The Red Sea",
+    "desc_de": "Acrylfarbe auf Leinwand; 80 x 120 cm",
+    "desc_en": "Acryl on canvas; 80 x 120 cm"
+  },
+  {
+    "img": "img/pics/tributetojj.jpg",
+    "thumb": "img/pics/tributetojja.jpg",
+    "title_de": "Tribute To Radek Jaros (2004)",
+    "title_en": "Tribute To Radek Jaros (2004)",
+    "desc_de": "Acryl auf Leinwand; 50x50 cm",
+    "desc_en": "Acryl on canvas; 50x50 cm"
+  },
+  {
+    "img": "img/pics/totalkomunikativ.jpg",
+    "thumb": "img/pics/totalkomunikativa.jpg",
+    "title_de": "Total Komunikativ (2004)",
+    "title_en": "Total Komunikativ (2004)",
+    "desc_de": "Öl und Acrylfarbe auf Leinwand 80x120 cm",
+    "desc_en": "Oil and Acryl on canvas 80x120 cm"
+  },
+  {
+    "img": "img/pics/30pripadu.jpg",
+    "thumb": "img/pics/30pripadua.jpg",
+    "title_de": "30 Kriminalfälle des Major Zeman (2005)",
+    "title_en": "30 Cases of Maj. Zeman (2005)",
+    "desc_de": "Acryl & Nitro Emaille auf Leinwand 92x72,5 cm",
+    "desc_en": "Acryl & Nitro Enamel on canvas 92x72,5 cm"
+  },
+  {
+    "img": "img/pics/swallow.jpg",
+    "thumb": "img/pics/swallowa.jpg",
+    "title_de": "Ahoj Katjo (2002)",
+    "title_en": "Ahoj Katjo (2002)",
+    "desc_de": "46 cm x 58,5 cm",
+    "desc_en": "46 cm x 58,5 cm"
+  },
+  {
+    "img": "img/pics/end_of_big.jpg",
+    "thumb": "img/pics/end_of_biga.jpg",
+    "title_de": "Ende großer Illusionen (2005)",
+    "title_en": "End of big illusions (2005)",
+    "desc_de": "Öl und acryl auf Leinwand 85x85cm",
+    "desc_en": "Oil and Acryl on canvas 85x85cm"
+  },
+  {
+    "img": "img/pics/elvisisdead.jpg",
+    "thumb": "img/pics/elvisisdeada.jpg",
+    "title_de": "Elvis is dead (Vorderseite)",
+    "title_en": "Elvis is dead (front)",
+    "desc_de": "Acryl auf Leinwand, 100x100cm",
+    "desc_en": "Acryl on canvas, 100x100cm"
+  },
+  {
+    "img": "img/pics/elvisisalive.jpg",
+    "thumb": "img/pics/elvisisalivea.jpg",
+    "title_de": "Elvis is still alive (Rückseite)",
+    "title_en": "Elvis is still alive (back)",
+    "desc_de": "Acryl auf Leinwand, 100x100cm",
+    "desc_en": "Acryl on canvas, 100x100cm"
+  },
+  {
+    "img": "img/pics/sommerflipper.jpg",
+    "thumb": "img/pics/sommerflippera.jpg",
+    "title_de": "Summerflipper (2003)",
+    "title_en": "Summerflipper (2003)",
+    "desc_de": "140x47cm, Öl + Acryl",
+    "desc_en": "140x47cm, Oil and Acryl"
+  },
+  {
+    "img": "img/pics/winterflipper.jpg",
+    "thumb": "img/pics/winterflippera.jpg",
+    "title_de": "Winterflipper (2003)",
+    "title_en": "Winterflipper (2003)",
+    "desc_de": "140x47cm, Öl + Acryl",
+    "desc_en": "100x70cm, Oil and Acryl"
+  },
+  {
+    "img": "img/pics/froheostern2p.jpg",
+    "thumb": "img/pics/froheostern2pa.jpg",
+    "title_de": "Frohe Ostern II (2003)",
+    "title_en": "Frohe Ostern II (2003)",
+    "desc_de": "100x70cm, Öl + Acryl",
+    "desc_en": "100x70cm, Oil and Acryl"
+  },
+  {
+    "img": "img/pics/frohlicheostern.jpg",
+    "thumb": "img/pics/frohlicheosterna.jpg",
+    "title_de": "Fröhliche Ostern (2000)",
+    "title_en": "Fröhliche Ostern (2000)",
+    "desc_de": "190x98,5cm",
+    "desc_en": "190x98,5cm"
+  },
+  {
+    "img": "img/pics/polizeiman.jpg",
+    "thumb": "img/pics/polizeimana.jpg",
+    "title_de": "Polizei(man)",
+    "title_en": "Polizei(man)",
+    "desc_de": "Acryl + Ölfarbe, 112x112 cm + installation",
+    "desc_en": "Oil and Acryl, 112x112 cm + installation"
+  },
+  {
+    "img": "img/pics/milka.jpg",
+    "thumb": "img/pics/milkaa.jpg",
+    "title_de": "Milka (1998)",
+    "title_en": "Milka (1998)",
+    "desc_de": "35 cm x 67,5 cm",
+    "desc_en": "35 cm x 67,5 cm"
+  },
+  {
+    "img": "img/pics/phonecard1.jpg",
+    "thumb": "img/pics/phonecard1a.jpg",
+    "title_de": "Phone card \"Don´t Call Me Anymore\"",
+    "title_en": "Phone card \"Don´t Call Me Anymore\"",
+    "desc_de": "+ installation",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/phonecard4.jpg",
+    "thumb": "img/pics/phonecard4a.jpg",
+    "title_de": "Phone card \"Achtung\"",
+    "title_en": "Phone card \"Achtung\"",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/phonecard3.jpg",
+    "thumb": "img/pics/phonecard3a.jpg",
+    "title_de": "Phone card \"First Aid\"",
+    "title_en": "Phone card \"First Aid\"",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/phonecard2.jpg",
+    "thumb": "img/pics/phonecard2a.jpg",
+    "title_de": "Phone card \"Machinery\"",
+    "title_en": "Phone card \"Machinery\"",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/elefantengeburtp.jpg",
+    "thumb": "img/pics/elefantengeburtpa.jpg",
+    "title_de": "Elefantengeburt (2002)",
+    "title_en": "Elefantengeburt (2002)",
+    "desc_de": "59x46,5cm",
+    "desc_en": "59x46,5cm"
+  },
+  {
+    "img": "img/pics/atmosfera.jpg",
+    "thumb": "img/pics/atmosferaa.jpg",
+    "title_de": "Atmosfera (2003)",
+    "title_en": "Atmosfera (2003)",
+    "desc_de": "100x97cm, Ölfarbe",
+    "desc_en": "100x97cm, Oil"
+  },
+  {
+    "img": "img/pics/flugtag.jpg",
+    "thumb": "img/pics/flugtaga.jpg",
+    "title_de": "11. September (2001)",
+    "title_en": "September 11th (2001)",
+    "desc_de": "100x97cm, Ölfarbe",
+    "desc_en": "buy now"
+  },
+  {
+    "img": "img/pics/rosemary.jpg",
+    "thumb": "img/pics/rosemarya.jpg",
+    "title_de": "Rosemary erwartet ein Baby (2004)",
+    "title_en": "Rosemary Infanticipated (2004)",
+    "desc_de": "Acryl auf Leinwand; 40x40 cm",
+    "desc_en": "Acryl on canvas, 40x40 cm"
+  },
+  {
+    "img": "img/pics/wajco.jpg",
+    "thumb": "img/pics/wajcoa.jpg",
+    "title_de": "Kinder Ei (WAJCO) (2002)",
+    "title_en": "Kinder Ei (WAJCO) (2002)",
+    "desc_de": "53x77cm",
+    "desc_en": "53x77cm"
+  },
+  {
+    "img": "img/pics/trinkteufel.jpg",
+    "thumb": "img/pics/trinkteufela.jpg",
+    "title_de": "Trinkteufel (2001)",
+    "title_en": "Trinkteufel (2001)",
+    "desc_de": "60x50cm",
+    "desc_en": "60x50cm"
+  },
+  {
+    "img": "img/pics/youonlylivetwicep1.jpg",
+    "thumb": "img/pics/youonlylivetwicep1a.jpg",
+    "title_de": "\"You only live twice\"(1) (2001)",
+    "title_en": "\"You only live twice\"(1) (2001)",
+    "desc_de": "76x44 cm",
+    "desc_en": "76x44 cm"
+  },
+  {
+    "img": "img/pics/youonlylivetwicep2.jpg",
+    "thumb": "img/pics/youonlylivetwicep2a.jpg",
+    "title_de": "\"You only live twice\"(2) (2001)",
+    "title_en": "\"You only live twice\"(2) (2001)",
+    "desc_de": "76x44 cm",
+    "desc_en": "76x44 cm"
+  },
+  {
+    "img": "img/pics/berlin.jpg",
+    "thumb": "img/pics/berlina.jpg",
+    "title_de": "Berlin (1998)",
+    "title_en": "Berlin (1998)",
+    "desc_de": "100 cm x 65 cm",
+    "desc_en": "100 cm x 65 cm"
+  },
+  {
+    "img": "img/pics/operatiosiam.jpg",
+    "thumb": "img/pics/operatiosiama.jpg",
+    "title_de": "Operation siamesische Zwillinge",
+    "title_en": "Operation Siame Twins",
+    "desc_de": "Öl und Acryl auf Leinwand 100x100 cm",
+    "desc_en": "Oil and Acryl on canvas 100x100 cm"
+  },
+  {
+    "img": "img/pics/kamel.jpg",
+    "thumb": "img/pics/kamela.jpg",
+    "title_de": "Kamel (1997)",
+    "title_en": "Kamel (1997)",
+    "desc_de": "",
+    "desc_en": "Oil and Acryl, 139 x 113 cm"
+  },
+  {
+    "img": "img/pics/geburtdesneuenheilands.jpg",
+    "thumb": "img/pics/geburtdesneuenheilandsa.jpg",
+    "title_de": "Geburt des neuen Heilands",
+    "title_en": "Geburt des neuen Heilands",
+    "desc_de": "Öl und Acryl, 139 x 113 cm",
+    "desc_en": "Oil and Acryl, 139 x 113 cm"
+  },
+  {
+    "img": "img/pics/RA_Opici_polka.jpg",
+    "thumb": "img/pics/RA_Opici_polka_1.jpg",
+    "title_de": "Ohne Titel (1996)",
+    "title_en": "Without Title (1996)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/RA_Cernobilej_usmev.jpg",
+    "thumb": "img/pics/RA_Cernobilej_usmev_1.jpg",
+    "title_de": "Schwarz-Weiß-Lächeln (1996)",
+    "title_en": "Black & White Smile(1996)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/helleluja.jpg",
+    "thumb": "img/pics/hellelujaa.jpg",
+    "title_de": "Hellbethlem (Helleluja) (666V)",
+    "title_en": "Hellbethlem (Helleluja) (666V)",
+    "desc_de": "",
+    "desc_en": ""
+  },
+  {
+    "img": "img/pics/jakub.jpg",
+    "thumb": "img/pics/jakuba.jpg",
+    "title_de": "Jakub (1995)",
+    "title_en": "Jakub (1995)",
+    "desc_de": "77,5x50 cm",
+    "desc_en": "77,5x50 cm"
+  }
+]
